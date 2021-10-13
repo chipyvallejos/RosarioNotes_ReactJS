@@ -48,4 +48,4 @@ Para visitar la aplicación:
 
 ## Objetivo
 
-  Esta aplicación fue desarrollada como Proyecto Final del curso de React.JS.
+  Esta aplicación fue desarrollada como Proyecto Final del curso de React.JS de CoderHouse.
