@@ -1,5 +1,5 @@
 
-# RosarioNotes e-commer ficticio.
+# RosarioNotes e-commerce ficticio.
 
 Una App e-commerce que utiliza filtros para encontrar productos, construida con ReactJS, JavaScript y CSS, usando Firebase como base de datos.
     
