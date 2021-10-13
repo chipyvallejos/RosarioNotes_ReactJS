@@ -1,16 +1,16 @@
 
-# RosarioNotes es un sitio de comercio online ficticio
+# RosarioNotes e-commer ficticio.
 
 Una App e-commerce que utiliza filtros para encontrar productos, construida con ReactJS, JavaScript y CSS, usando Firebase como base de datos.
     
 ## Librerias
-Entre las librerias destacadas que utilice para desarrollar esta App estan:
+Algunas librerias que utilice para desarrollar esta App:
 
 -Boostrap y React-Bootstrap: Debido a que facilitan mucho el trabajo a la hora de obtener un diseño responsive y esteticamente agradable a la vista.
 
 -React-Icons: Iconos en general.
 
--Firebase: Me sirvio para poder tenes una base de datos desde donde poder trabajar con la informacion de mis productos, imagenes, stock, etc. Ademas me permite generar ordenes de compra a nombre del usuario, con fecha e ID propio.
+-Firebase: Base de datos desde donde poder trabajar con la informacion de mis productos, imagenes, stock, etc. Ademas me permite generar ordenes de compra a nombre del usuario, con fecha e ID propio.
 
 ## Instrucciones de instalación y configuración
 
